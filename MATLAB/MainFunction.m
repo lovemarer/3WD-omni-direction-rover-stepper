@@ -31,7 +31,7 @@ if (clientID>-1)
     %------------------------------CODE HERE------------------------------%
     
      
-    locate_x (1,-2);
+    MoveSpin (1,-2);
     
     %destroy connection to v-rep simulation
     vrep.simxFinish(-1);
