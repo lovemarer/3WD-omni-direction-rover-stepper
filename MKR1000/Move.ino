@@ -43,7 +43,7 @@ void setup()
     pinMode(ms2Pin,OUTPUT);  
     pinMode(ms1Pin,OUTPUT); 
 
-    digitalWrite(ms1Pin, LOW);
+    digitalWrite(ms1Pin, HIGH);
     digitalWrite(ms2Pin, LOW); 
     digitalWrite(ms3Pin, LOW); 
 
@@ -77,9 +77,9 @@ void loop()
   
   while(abs(stepper1.currentPosition()) < 800)
   {
-    stepper1.setSpeed(v0*2);
-    stepper2.setSpeed(v1*2);
-    stepper3.setSpeed(v2*2); 
+    stepper1.setSpeed(v0);
+    stepper2.setSpeed(v1);
+    stepper3.setSpeed(v2); 
     
     stepper1.runSpeed();
     stepper2.runSpeed();
