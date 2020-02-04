@@ -1,4 +1,4 @@
-function [] = locate_x (x,y)
+function [] = MoveSpin (x,y)
 
 
 
