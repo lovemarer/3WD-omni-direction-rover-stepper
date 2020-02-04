@@ -1,4 +1,4 @@
-function [] = locate (alpha,x,y)
+function [] = Move (x,y)
 
 
     
@@ -16,7 +16,7 @@ function [] = locate (alpha,x,y)
     rover_radius = 15;
     wheel_radius = 5.22;
     constant_linearVelocity = (0.5*pi*wheel_radius);
-    phi = alpha/180*pi;
+    phi = 0/180*pi;
     dphi = 0.5/180*pi;
     
     %get position
