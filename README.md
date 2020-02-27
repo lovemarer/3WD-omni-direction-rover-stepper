@@ -11,17 +11,17 @@
 **University of Adelaide Summer Research Internship 2019**
 
 ## About 
-***
+
 This repository is the work of the Rover team.\
 We are developing the rover hardware as well as control system.\
 For more detailed information, please see each model domain in the [Wiki](https://github.com/UofA-EEE-LAUS/3WD-omni-direction-rover-stepper/wiki).
 ## Navigation 
-***
+
 [PhysicalPlatform](https://github.com/UofA-EEE-LAUS/3WD-omni-direction-rover-stepper/tree/master/Physical%20Platform)
 [VirtualEnvironment](https://github.com/UofA-EEE-LAUS/3WD-omni-direction-rover-stepper/tree/master/Virtual%20Environment)
 [HardwareDesign](https://github.com/UofA-EEE-LAUS/3WD-omni-direction-rover-stepper/tree/master/Hardware%20Designs/PCB)
 ## Requirement
-***
+
 ### Software
 * MATLAB
 * Arduino IDE
