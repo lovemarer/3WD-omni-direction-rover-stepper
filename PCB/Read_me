@@ -1,3 +1,4 @@
-This is the PCB design which is used to carry the Arduino mkr1000 and 3 A4988 drivers. 
+This is the PCB design which is used to carry the Arduino mkr1000 and 3 A4988 drivers.  
 The PCB design is created in the AD19.
-The size of the board is 12cm*8cm
+The size of the board is 10.7cm*7.8cm.
+The needed device can be found on the "Needed device" table.
