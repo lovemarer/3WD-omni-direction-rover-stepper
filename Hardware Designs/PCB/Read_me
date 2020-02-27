@@ -1,4 +1,0 @@
-This is the PCB design which is used to carry the Arduino mkr1000 and 3 A4988 drivers.  
-The PCB design is created in the AD19.
-The needed device can be found on the "Needed device" table.
-It should be noticed that the Pin Headers for the motors may be different (difference in the size of the Headers), which means the PCB designs are different for different Headers. 
